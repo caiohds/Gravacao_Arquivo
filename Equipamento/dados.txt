@@ -1,0 +1,4 @@
+notebook;joseverson;11/06/2022 13:46;sistema nao inicia;
+pc;cloude;10/06/2022 16:50;formatar;
+notebook acer;Caio;25/06/2022 14:11;Tela nao funciona;
+notebook del;cleyton;25/06/2022 14:44;parou de funcionar;
